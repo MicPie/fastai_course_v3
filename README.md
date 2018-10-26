@@ -1,2 +1,2 @@
 # fastai_v3
-Notebooks for fast.ai v3 course
+Notebooks for the fast.ai v3 course.
